@@ -42,7 +42,7 @@ padding: 1rem;
 
 const Skills = () => {
     return (
-        <_container>
+        <_container id="skills">
             <_title>Habilidades</_title>
             <_containerTechnology>
                 <_technology>

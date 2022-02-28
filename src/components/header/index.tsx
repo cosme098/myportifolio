@@ -60,7 +60,7 @@ function Header(): JSX.Element {
       <_containerlinks>
         <_link href="#home">Inicio</_link>
         <_link href="#about">Sobre mim</_link>
-        <_link href="#contacts">Habilidades</_link>
+        <_link href="#skills">Habilidades</_link>
       </_containerlinks>
     </_Header>
   );

@@ -38,7 +38,7 @@ display: flex;
 gap: 1rem;
 `;
 const _btnLinkdin = styled.a`
-background-color: ${props=>props.color};
+background-color: ${props => props.color};
 color: #fff;
 width: 9rem;
 height: 2rem;
@@ -62,20 +62,20 @@ height: 250px;
 const Home = () => {
     return (
         <_about id="home">
-               <_text>
+            <_text>
                 <_title1 >SEJA BEM VINDO!</_title1>
-                <_title2 >Olá, Eu sou o desenvolvedor <br/> Cosme Franca :)</_title2>
-                <_title3 >Desenvolvedor Front-End Angular e React!</_title3>
+                <_title2 >Olá, Eu sou o desenvolvedor <br /> Cosme Franca :)</_title2>
+                <_title3 >Desenvolvedor Full-stack</_title3>
                 <_containerBtn >
                     <_btnLinkdin color="#05da5c" href="https://www.linkedin.com/in/cosme-silva-150166213/" target="_blank">
                         Acessar Linkedin
-                        </_btnLinkdin>
-                        <_btnLinkdin color="transparent"  href="mailto:cosmeforeve@gmail.com" >
+                    </_btnLinkdin>
+                    <_btnLinkdin color="transparent" href="mailto:cosmeforeve@gmail.com" >
                         Entrar em contato
-                        </_btnLinkdin>
+                    </_btnLinkdin>
                 </_containerBtn>
-                </_text> 
-                <_perfilImg src="https://avatars.githubusercontent.com/u/67158139?s=400&u=27b2370219946659792d6e2cf26175fb096e3276&v=4"></_perfilImg>
+            </_text>
+            <_perfilImg src="https://avatars.githubusercontent.com/u/67158139?s=400&u=27b2370219946659792d6e2cf26175fb096e3276&v=4"></_perfilImg>
         </_about>
     )
 }

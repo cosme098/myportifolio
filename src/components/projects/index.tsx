@@ -63,7 +63,7 @@ const Projects = () => {
                         <path d="M4.5 9.5L5.76788 11.0175C5.8583 11.1257 6.02931 11.1089 6.09689 10.9851L8 7.5" stroke="#05DA5C" stroke-linecap="round" />
                     </_iconCheck>
                     <_project_title>Ar-condiconado</_project_title>
-                    <_project_description>Sistema para controlar Ar-condicionados</_project_description>
+                    <_project_description>Sistema para controle de Ar-condicionados</_project_description>
                 </_project>
 
                 <_project>

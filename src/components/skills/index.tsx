@@ -5,10 +5,13 @@ const _container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  flex-wrap: wrap;
   `;
 const _containerTechnology = styled.div`
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
   padding: 1rem;
   min-width: 90%;
   justify-content: space-around;

@@ -80,8 +80,8 @@ const Projects = () => {
                         <path d="M1 17.865V1H11V17.865L6.96028 14.4985C6.40401 14.035 5.59599 14.035 5.03972 14.4985L1 17.865Z" stroke="#05DA5C" stroke-width="2" />
                         <path d="M4.5 9.5L5.76788 11.0175C5.8583 11.1257 6.02931 11.1089 6.09689 10.9851L8 7.5" stroke="#05DA5C" stroke-linecap="round" />
                     </_iconCheck>
-                    <_project_title>BrndSolucoes</_project_title>
-                    <_project_description>Landing Page da empresa BrndSolucoes</_project_description>
+                    <_project_title>AgendaEasy</_project_title>
+                    <_project_description>agenda para relembrar eventos marcados</_project_description>
                 </_project>
             </_container_Projects>
         </_container>

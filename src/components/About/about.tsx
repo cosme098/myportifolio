@@ -35,13 +35,13 @@ const About = () => {
             <_text>
                 👏Olá, meu nome é Cosme silva, e eu comecei essa jornada de programação web no final de 2019.
                 Sempre gostei da area da tecnologia e no inicio eu programava
-                para area sistemas embarcados (até hoje eu ainda programo para sistemas embarcados),
+                para area de sistemas embarcados (até hoje),
                 mas ao longo da minha carreira eu decidi me especializar em programação web, e hoje eu sou um desenvolvedor full-stack.
-                com os frameWorks React e Angulare e nestJs, vejo que com eles da para extrair muito do Javascript e typeScript.
+                com os frameWorks React e Angular e nestJs, vejo que com eles da para extrair muito do Javascript e typeScript.
             </_text>
             <_text>
-                e tambem para deixar o codigo mais clean e legivel não podia falta o uso clean architecture ORM e ODM`S.
-                Sempre que tenho tempo eu estou aprendendo novas tecnologias e frameworks, no momento estou estudando o selenium e vendo o quanto ele pode ajudar no futuro de novos projetos afim de automatizar tests.
+                {/* e tambem para deixar o codigo mais clean e legivel não podia falta o uso clean architecture ORM e ODM`S. */}
+                Sempre que tenho tempo eu estou aprendendo novas tecnologias e frameworks, no momento estou trabalhando muito com os ORM e ODM`S.
             </_text>
         </_container>
     )
